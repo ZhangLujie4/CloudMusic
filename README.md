@@ -3,6 +3,7 @@ java project for cloudmusic
 
 这是一个关于网易云音乐，全民K歌，唱吧的一个超简易的Java文件<br>
 PS：没有设计页面样式，所以很丑
+`本程序运行于tomcat7.0,win7系统,未在其他平台试用`
 
 功能描述：
 --------
